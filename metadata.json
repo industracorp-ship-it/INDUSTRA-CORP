@@ -1,0 +1,6 @@
+{
+  "name": "Van Công Nghiệp UTD - Giải Pháp Kiểm Soát Dòng Chảy Bền Bỉ",
+  "description": "Trang web chính thức giới thiệu dòng sản phẩm Van công nghiệp UTD tiêu chuẩn ISO, ASME, DIN: van bi, van bướm, van cổng, van một chiều, van cầu chịu áp lực và nhiệt độ cao.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

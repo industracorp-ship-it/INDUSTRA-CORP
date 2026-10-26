@@ -1,0 +1,23 @@
+# =====================================================================
+# UTD INDUSTRACORP - NATURAL GOOGLE SEARCH ENGINE OPTIMIZATION (SEO)
+# Domain: www.industracorp.com
+# Policy: INDEX & ALLOW ALL GOOGLEBOT CRAWLERS FOR NATURAL SEO
+# =====================================================================
+
+User-agent: *
+Allow: /
+Allow: /products
+Allow: /catalogue
+Allow: /knowledge
+Allow: /rfq
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Googlebot-Image
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+Sitemap: https://www.industracorp.com/sitemap.xml
